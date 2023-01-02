@@ -1,4 +1,4 @@
-Python developer also know C#
+Python developer also know C#,JS
 
 ![Lwitchy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lwitchy&layout=compact&langs_count=7&theme=dracula)
 
