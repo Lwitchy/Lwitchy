@@ -1,6 +1,6 @@
 Python developer also know JS & Java
 
-I know Russian, Azerbaijani, Turkish, English languages
+I know Russian, Azerbaijani, Turkish, English
 
 [Discord](https://discordapp.com/users/614133601151221760)
 
