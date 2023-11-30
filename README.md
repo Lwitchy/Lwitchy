@@ -2,7 +2,7 @@ Python developer also know JS & Java
 
 I know Russian, Azerbaijani, Turkish, English languages
 
-Discord @lwitchy
+[Discord](https://discordapp.com/users/614133601151221760)
 
 [Instagram](https://www.instagram.com/lwitchyyy/)
 
