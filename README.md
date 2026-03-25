@@ -8,8 +8,6 @@ I know Russian, Azerbaijani, Turkish, English
 
 [Telegram](https://t.me/lwitchy)
 
-[Twitter (X)](https://twitter.com/lwitchyy)
-
 ![Lwitchy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lwitchy&layout=compact&langs_count=7&theme=dracula)
 
 Profile Views:
